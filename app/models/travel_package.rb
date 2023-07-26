@@ -1,0 +1,2 @@
+class TravelPackage < ApplicationRecord
+end

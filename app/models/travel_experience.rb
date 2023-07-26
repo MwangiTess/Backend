@@ -1,0 +1,2 @@
+class TravelExperience < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class TravelBooking < ApplicationRecord
+end
